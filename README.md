@@ -1,54 +1,30 @@
-# 📇 Contact Card
+## ☕ Support
 
-Create a shared member directory for your Discord community.
+Contact Card is completely free to use.
 
-Contact Card allows members to create personalized contact cards that can include:
+If this project has been helpful to you or your community, and you'd like to support future development, you can buy me a coffee on Ko-fi.
 
-- 👤 Name
-- 📧 Email
-- 📱 Phone number
-- 🎂 Birthday
-- 🌐 Social media links
-
-Members can browse the directory, view each other's contact cards, and (coming soon) export the directory as vCards for easy import into their phone's contacts.
+**Ko-fi:** https://ko-fi.com/EmCath
 
 ---
 
-## Features
+## 📄 Legal
 
-- Easy-to-use slash commands
-- Beautiful embedded contact cards
-- Shared community directory
-- Optional social media links
-- Privacy controls
-- Free to use
+- [Privacy Policy](privacy.md)
+- [Terms of Service](terms.md)
 
 ---
 
-## Commands
+## 🤝 Support & Feedback
 
-| Command | Description |
-|---------|-------------|
-| `/profile` | Create or update your contact card |
-| `/card` | View a contact card |
-| `/directory` | Browse saved members |
-| `/deleteprofile` | Delete your profile |
-| `/help` | Learn how to use the bot |
+Found a bug or have a feature request?
+
+Please open an Issue on GitHub or contact the developer through the project's GitHub page.
 
 ---
 
-## Support
+## ❤️ About
 
-This project is completely free.
+Contact Card is an independent project created by Emily Smith to help Discord communities connect more easily through shared contact information.
 
-If you'd like to support future development, consider buying me a coffee:
-
-☕ **Ko-fi:** *(add your link here)*
-
----
-
-## Privacy
-
-Privacy Policy *(coming soon)*
-
-Terms of Service *(coming soon)*
+Contact Card is not affiliated with or endorsed by Discord.
